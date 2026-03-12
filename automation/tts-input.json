@@ -1,9 +1,13 @@
 {
-  "voice": "expresso/ex03-ex01_awe_001_channel1_1323s.wav",
+  "voice": "expresso/ex01-ex02_enunciated_001_channel1_432s.wav",
   "parts": [
     {
       "id": 6,
-      "text": "I am Kunal, and I think the bravest thing my own mother ever did was stop answering a question I asked her so that I would be forced to find the answer with my own bruised hands. Tonight before you close your eyes you might ask yourself one thing — who in your life are you protecting so carefully that they have forgotten how to protect themselves? And here is the question I cannot stop turning over — is the deepest love the one that holds on or the one that survives letting go?"
+      "text": "If you have ever held someone back not because they were weak but because you were afraid, tell me that story in the comments — I believe more of us carry that quiet guilt than we ever say out loud. Vasuda said nothing that night. She sat beside Meera's sleeping face, soft and untroubled, and thought about two kinds of people — the traders who crossed the desert and came back sunburned and laughing, and the ones who never once left home yet still walked around looking afraid."
+    },
+    {
+      "id": 12,
+      "text": "The Buddhist principle beneath this story is Upadana — clinging, attachment disguised as devotion. Modern psychology calls it enmeshment, where a parent's identity fuses so deeply with protecting a child that the child never develops their own roots. Twenty-five centuries before any therapist named it, the Buddha saw it clearly — what we grip too tightly we quietly crush."
     }
   ]
 }
