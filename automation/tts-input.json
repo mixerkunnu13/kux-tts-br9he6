@@ -1,13 +1,25 @@
 {
-  "voice": "expresso/ex03-ex01_awe_001_channel1_1323s.wav",
+  "voice": "voice-donations/spanish-limaperu_enhanced.wav",
   "parts": [
     {
-      "id": 6,
-      "text": "If you have ever held someone back not because they were weak but because you were afraid, tell me that story in the comments — I believe more of us carry that quiet guilt than we ever say out loud. Vasuda said nothing that night. She sat beside Meera's sleeping face, soft and untroubled, and thought about two kinds of people — the traders who crossed the desert and came back sunburned and laughing, and the ones who never once left home yet still walked around looking afraid."
+      "id": 16,
+      "text": "Te miraba con un fastidio que intentaba disfrazar de cansancio pero que tú reconocías perfectamente porque llevas toda la vida leyendo lo que los demás sienten aunque no lo digan. ¿Qué cambió? Él no cambió. Tú no cambiaste. Lo que cambió fue la ecuación. Lo que él llamaba amor nunca fue lo que tú entendías por amor. Lo que él tenía era satisfacción — satisfacción con lo que recibía de ti: tu energía, tu atención, tu cuerpo, tu capacidad de hacerle la vida más fácil, más suave, más placentera."
     },
     {
-      "id": 12,
-      "text": "The Buddhist principle beneath this story is Upadana — clinging, attachment disguised as devotion. Modern psychology calls it enmeshment, where a parent's identity fuses so deeply with protecting a child that the child never develops their own roots. Twenty-five centuries before any therapist named it, the Buddha saw it clearly — what we grip too tightly we quietly crush."
+      "id": 17,
+      "text": "Tú eras un servicio emocional con nombre propio. Y cuando dejaste de poder ofrecerlo — por agotamiento, por enfermedad, por cualquier razón profundamente humana y legítima — la satisfacción se terminó. Y con ella, cada palabra bonita que alguna vez pronunció. Esto no es cinismo. Es reconocimiento de un patrón que se repite con una precisión tan despiadada que debería quitarnos la venda de los ojos de una vez por todas."
+    },
+    {
+      "id": 18,
+      "text": "Piensa en esa madre, esa hermana, esa tía que te dice que te quiere incondicionalmente — pero cuyo cariño tiene condiciones tan finas, tan sutiles, tan bien escondidas que tardaste años en identificarlas. La madre que te apoya mientras sigas el camino que ella diseñó para tu vida — y que te retira el afecto como quien cierra un grifo cuando tomas una decisión que ella no aprueba."
+    },
+    {
+      "id": 19,
+      "text": "La hermana que se acerca cuando necesita dinero, consejo, que la escuches quejarse durante dos horas — y que se vuelve invisible cuando eres tú la que necesita un hombro. La familia que dice \"siempre vamos a estar\" — pero que \"estar\" significa estar mientras no les cueste demasiado, mientras no interrumpa sus planes, mientras sea cómodo y barato. Sé que esto arde."
+    },
+    {
+      "id": 20,
+      "text": "Sé que una parte de ti quiere cerrar esto ahora mismo y decir que su caso es diferente, que sus personas son distintas, que su madre sí la quiere de verdad, que su amiga no es así. Y quizás tengas razón. Quizás tengas en tu vida una o dos personas que se han quedado no por lo que les das sino por algo más profundo, más raro, más difícil de encontrar que un diamante en un río. Pero si eres honesta — brutalmente, dolorosamente honesta — sabes que esas personas se cuentan con los dedos de una mano."
     }
   ]
 }
